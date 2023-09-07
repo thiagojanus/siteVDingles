@@ -1341,14 +1341,14 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #3c341b;
+  background: #542504;
   padding: 0 0 30px 0;
   color: #eee;
   font-size: 14px;
 }
 
 #footer .footer-top {
-  background: #004a99;
+  background: #9b572178;
   padding: 60px 0 30px 0;
 }
 
@@ -1445,6 +1445,7 @@ section {
 
 #footer .footer-top .footer-newsletter {
   margin-bottom: 30px;
+  margin-left: 20%;
 }
 
 #footer .footer-top .footer-newsletter input[type=email] {
@@ -1587,3 +1588,41 @@ section {
   margin: 1%;
 }
 
+.h2{
+  font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    margin: 0 0 20px 0;
+    padding: 0;
+    margin-top: 4%;
+}
+
+.paragrafo{
+  padding: 0;
+    margin: 0 0 30px 0;
+    line-height: 2;
+    text-align: justify;
+    text-indent: 30px;
+    font-weight: bolder;
+    color: #885e2b;
+    text-align: center;
+}
+
+.icon451{
+  width: 20%;
+}
+
+.icon452{
+  width: 20%;
+  margin-left: 23%;
+}
+
+.icon453{
+  width: 20%;
+margin-right: 13%;
+  
+}
+
+.icon454{
+  width: 40%;
+  
+}
